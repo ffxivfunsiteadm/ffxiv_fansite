@@ -1,0 +1,9 @@
+README.md
+app
+config
+scripts
+run.py
+.env
+requirements.txt
+venv
+filelist.txt
